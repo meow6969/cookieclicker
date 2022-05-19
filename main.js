@@ -1589,8 +1589,8 @@ Game.Launch=function()
 		Game.LoadMod("https://klattmose.github.io/CookieClicker/AmericanSeason.js?v=1.7")
 		Game.LoadMod("https://klattmose.github.io/CookieClicker/minigameCasino.js?v=3.16")
 		Game.LoadMod("https://klattmose.github.io/CookieClicker/IdleTrading.js?v=1.10")
-		//Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
-		Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js")
+		Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
+		//Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js")
 
 
 
