@@ -1591,6 +1591,7 @@ Game.Launch=function()
 		Game.LoadMod("https://klattmose.github.io/CookieClicker/IdleTrading.js?v=1.10")
 		Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
 		//Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js")
+		Game.LoadMod("https://klattmose.github.io/CookieClicker/PredictablePlantGrowth.js?v=1")
 
 
 
