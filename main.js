@@ -1178,7 +1178,7 @@ var Game={};
 	//Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js")
 	Game.LoadMod("https://klattmose.github.io/CookieClicker/PredictablePlantGrowth.js?v=1")
 
-	Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
+	
 	//Game.LoadMod("https://klattmose.github.io/CookieClicker/CCSE-POCs/TimerWidget.js?v=1.8")
 	//Game.LoadMod("https://klattmose.github.io/CookieClicker/minigameCasino.js?v=3.16")
 	
@@ -1219,6 +1219,7 @@ var Game={};
 	//replacing an existing canvas picture with a new one at runtime : Game.Loader.Replace('perfectCookie.png','imperfectCookie.png');
 	//upgrades and achievements can use other pictures than icons.png; declare their icon with [posX,posY,'http://example.com/myIcons.png']
 	//check out the "UNLOCKING STUFF" section to see how unlocking achievs and upgrades is done
+	Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
 })();
 
 Game.version=VERSION;
