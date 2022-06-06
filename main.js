@@ -1178,7 +1178,7 @@ var Game={};
 	//Game.LoadMod("https://icehawk78.github.io/FrozenCookies/frozen_cookies.js")
 	Game.LoadMod("https://klattmose.github.io/CookieClicker/PredictablePlantGrowth.js?v=1")
 
-	//Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
+	Game.LoadMod("https://cookiemonsterteam.github.io/CookieMonster/dist/CookieMonster.js")
 	//Game.LoadMod("https://klattmose.github.io/CookieClicker/CCSE-POCs/TimerWidget.js?v=1.8")
 	//Game.LoadMod("https://klattmose.github.io/CookieClicker/minigameCasino.js?v=3.16")
 	
